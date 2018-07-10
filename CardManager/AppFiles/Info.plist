@@ -26,9 +26,9 @@
 		<true/>
 	</dict>
 	<key>NSCameraUsageDescription</key>
-	<string>添加卡片信息是访问相机</string>
+	<string>Add card need visiter camera</string>
 	<key>NSPhotoLibraryUsageDescription</key>
-	<string>天际卡片信息时访问相册</string>
+	<string>Add card need visiter library</string>
 	<key>UIMainStoryboardFile</key>
 	<string>Main</string>
 	<key>UIRequiredDeviceCapabilities</key>
